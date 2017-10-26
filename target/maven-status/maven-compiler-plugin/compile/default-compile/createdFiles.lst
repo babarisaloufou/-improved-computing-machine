@@ -1,0 +1,15 @@
+cnss\repositories\EmployeRepository.class
+cnss\services\impl\EmployeServiceImpl.class
+cnss\models\UserDao.class
+cnss\models\Employe.class
+cnss\controllers\MainController.class
+cnss\services\EmployeService.class
+cnss\models\User.class
+cnss\controllers\UserController.class
+cnss\controllers\EmployeController.class
+cnss\models\Assure.class
+cnss\models\Departement.class
+cnss\models\Projet.class
+cnss\Application.class
+cnss\repositories\ProjetRepository.class
+cnss\repositories\DepartementRepository.class
